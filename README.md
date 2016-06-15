@@ -1,5 +1,12 @@
 # Tesla-vs-Edison
 A javascript game build using the phaser library engin. Users try to help Tesla out by collecting electric bolts inorder to beat edison out. It test how long the users can last collecting these electric bolts. 
+
+![alt tag](http://i.imgur.com/ZTLttNq.png?1)
+
+You cal play the game online <a href='http://athoug.xyz/day13/index.html'>here</a>.
+
+However if you want to play the game on yourlocal machine you can follow the instruction listed bellow in the 'how to set it up' section.
+
 <br>
 
 # How to set it up
